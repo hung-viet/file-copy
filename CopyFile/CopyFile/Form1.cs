@@ -26,6 +26,7 @@ namespace CopyFile
             try
             {
                 lbStatus.Text = "Doing...";
+
                 if (!IsValidForm())
                 {
                     lbStatus.Text = "Error";
@@ -55,13 +56,10 @@ namespace CopyFile
                         // To copy a file to another location and
                         // overwrite the destination file if it already exists.
                         File.Copy(sourceFile, destFile, true);
-                        lbStatus.Text = "Done";
-                    }
-                    else
-                    {
-                        lbStatus.Text = "Error";
                     }
                 }
+
+                lbStatus.Text = "Done";
             }
             catch (Exception)
             {
