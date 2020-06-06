@@ -1,0 +1,13 @@
+F:\My Project\Git\X5\CopyFile\CopyFile\bin\Debug\CopyFile.exe.config
+F:\My Project\Git\X5\CopyFile\CopyFile\bin\Debug\CopyFile.exe
+F:\My Project\Git\X5\CopyFile\CopyFile\bin\Debug\CopyFile.pdb
+F:\My Project\Git\X5\CopyFile\CopyFile\obj\Debug\CopyFile.csprojAssemblyReference.cache
+F:\My Project\Git\X5\CopyFile\CopyFile\obj\Debug\CopyFile.Form1.resources
+F:\My Project\Git\X5\CopyFile\CopyFile\obj\Debug\CopyFile.Properties.Resources.resources
+F:\My Project\Git\X5\CopyFile\CopyFile\obj\Debug\CopyFile.csproj.GenerateResource.cache
+F:\My Project\Git\X5\CopyFile\CopyFile\obj\Debug\CopyFile.exe
+F:\My Project\Git\X5\CopyFile\CopyFile\obj\Debug\CopyFile.pdb
+F:\My Project\Git\X5\CopyFile\CopyFile\bin\Debug\CopyFile.exe.manifest
+F:\My Project\Git\X5\CopyFile\CopyFile\bin\Debug\CopyFile.application
+F:\My Project\Git\X5\CopyFile\CopyFile\obj\Debug\CopyFile.exe.manifest
+F:\My Project\Git\X5\CopyFile\CopyFile\obj\Debug\CopyFile.application
