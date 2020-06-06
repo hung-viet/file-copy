@@ -10,3 +10,4 @@ F:\My Project\Git\X5\CopyFile\CopyFile\obj\Release\CopyFile.exe.manifest
 F:\My Project\Git\X5\CopyFile\CopyFile\obj\Release\CopyFile.application
 F:\My Project\Git\X5\CopyFile\CopyFile\obj\Release\CopyFile.exe
 F:\My Project\Git\X5\CopyFile\CopyFile\obj\Release\CopyFile.pdb
+F:\My Project\Git\X5\CopyFile\CopyFile\obj\Release\CopyFile.csprojAssemblyReference.cache

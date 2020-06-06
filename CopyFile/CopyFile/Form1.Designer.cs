@@ -120,6 +120,7 @@
             this.Controls.Add(this.txtTarget);
             this.Controls.Add(this.btnCopy);
             this.Controls.Add(this.txtURL);
+            this.TopMost = true;
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);

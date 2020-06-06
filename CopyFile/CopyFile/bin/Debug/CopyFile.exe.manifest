@@ -42,24 +42,24 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CopyFile.exe" size="11248">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CopyFile.exe" size="11760">
       <assemblyIdentity name="CopyFile" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>IRw8J04Wa5gQ/cqEAVsYMmSLbvp0jLghRxY2W2Fvhf4=</dsig:DigestValue>
+        <dsig:DigestValue>mejF7f7GDJORUV0d9Fx/Tv4DkvqfavKplTg5nZi3lzI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="CopyFile.exe.config" size="184">
+  <file name="CopyFile.exe.config" size="317">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>gKxXKIvI1oB2Ujf3NLkY67/jWCAETGNca3j2WtIebak=</dsig:DigestValue>
+      <dsig:DigestValue>vvApASkchfqN3CDf8Tsw8XNvUjOjT7BUF/IepGMH2fo=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

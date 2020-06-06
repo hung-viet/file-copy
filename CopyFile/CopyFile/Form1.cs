@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 using System.IO;
+using System.Configuration;
+using System.Collections.Specialized;
+
 namespace CopyFile
 {
     public partial class Form1 : Form
@@ -10,6 +13,13 @@ namespace CopyFile
         public Form1()
         {
             InitializeComponent();
+            Init();
+        }
+
+        private void Init()
+        {
+            txtSource.Text = ConfigurationManager.AppSettings["PrefixSource"];
+            txtTarget.Text = ConfigurationManager.AppSettings["PrefixTarger"];
         }
 
         private void btnCopy_Click(object sender, EventArgs e)
